@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23183001.svg)](https://doi.org/10.5281/zenodo.23183001)
 # TCM-ChemAI
 
 中药配伍毒性预测系统 —— 基于 RDKit 反应规则与 ADMET 预测。

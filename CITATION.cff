@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "VegFisx"
+    given-names: "[董心畅]"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX" # 可选，但推荐填写
+title: "TCM-ChemAI: Toxicity Prediction for TCM Herb Combinations"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX # 暂时留空，获取 DOI 后回来填写
+date-released: 2026-10-06
+url: "https://github.com/VegFisx/tcm-compatibility-ai"

@@ -1,0 +1,126 @@
+{
+  "附子": {
+    "include": ["附子", "制附子", "炮附子", "乌头附子尖"],
+    "coconut": ["aconitum carmichaelii"]
+  },
+  "甘草": {
+    "include": ["甘草", "炙甘草", "光果甘草", "胀果甘草"],
+    "coconut": ["glycyrrhiza uralensis", "glycyrrhiza glabra", "glycyrrhiza inflata"]
+  },
+  "麻黄": {
+    "include": ["麻黄", "炙麻黄"],
+    "coconut": ["ephedra sinica"]
+  },
+  "桂枝": {
+    "include": ["桂枝"],
+    "coconut": ["cinnamomum cassia"]
+  },
+  "知母": {
+    "include": ["知母"],
+    "coconut": ["anemarrhena asphodeloides"]
+  },
+  "大黄": {
+    "include": ["大黄", "酒大黄", "熟大黄", "大黄炭"],
+    "coconut": ["rheum palmatum", "rheum officinale", "rheum tanguticum"]
+  },
+  "海藻": {
+    "include": ["海藻"],
+    "coconut": ["sargassum pallidum", "sargassum fusiforme"]
+  },
+  "人参": {
+    "include": ["人参", "人参须", "人参花", "人参花蕾", "人参芦", "人参叶", "人参子"],
+    "coconut": ["panax ginseng"]
+  },
+  "藜芦": {
+    "include": ["藜芦"],
+    "coconut": ["veratrum nigrum"]
+  },
+  "丁香": {
+    "include": ["丁香"],
+    "coconut": ["syzygium aromaticum"]
+  },
+  "郁金": {
+    "include": ["郁金", "温郁金", "黄丝郁金", "绿丝郁金", "桂郁金"],
+    "coconut": ["curcuma aromatica", "curcuma wenyujin"]
+  },
+  "甘遂": {
+    "include": ["甘遂"],
+    "coconut": ["euphorbia kansui"]
+  },
+  "半夏": {
+    "include": ["半夏", "法半夏", "制半夏", "半夏曲"],
+    "coconut": ["pinellia ternata"]
+  },
+  "乌头": {
+    "include": ["乌头", "草乌头", "北乌头"],
+    "coconut": ["aconitum carmichaelii", "aconitum kusnezoffii"]
+  },
+  "大戟": {
+    "include": ["京大戟"],
+    "coconut": ["euphorbia pekinensis"]
+  },
+  "干姜": {
+    "include": ["干姜"],
+    "coconut": ["zingiber officinale"]
+  },
+  "白术": {
+    "include": ["白术"],
+    "coconut": ["atractylodes macrocephala"]
+  },
+  "茯苓": {
+    "include": ["茯苓"],
+    "coconut": ["poria cocos"]
+  },
+  "杏仁": {
+    "include": ["杏仁", "苦杏仁", "甜杏仁"],
+    "coconut": ["prunus armeniaca"]
+  },
+  "白芍": {
+    "include": ["白芍", "芍药"],
+    "coconut": ["paeonia lactiflora"]
+  },
+  "生姜": {
+    "include": ["生姜", "姜"],
+    "coconut": ["zingiber officinale"]
+  },
+  "大枣": {
+    "include": ["大枣", "红枣", "枣"],
+    "coconut": ["ziziphus jujuba"]
+  },
+  "厚朴": {
+    "include": ["厚朴"],
+    "coconut": ["magnolia officinalis"]
+  },
+  "枳实": {
+    "include": ["枳实"],
+    "coconut": ["citrus aurantium"]
+  },
+  "熟地黄": {
+    "include": ["熟地黄", "熟地", "地黄"],
+    "coconut": ["rehmannia glutinosa"]
+  },
+  "山药": {
+    "include": ["山药"],
+    "coconut": ["dioscorea opposita"]
+  },
+  "山茱萸": {
+    "include": ["山茱萸"],
+    "coconut": ["cornus officinalis"]
+  },
+  "泽泻": {
+    "include": ["泽泻"],
+    "coconut": ["alisma plantago-aquatica"]
+  },
+  "牡丹皮": {
+    "include": ["牡丹皮", "丹皮"],
+    "coconut": ["paeonia suffruticosa"]
+  },
+  "柴胡": {
+    "include": ["柴胡"],
+    "coconut": ["bupleurum chinense"]
+  },
+  "黄芩": {
+    "include": ["黄芩"],
+    "coconut": ["scutellaria baicalensis"]
+  }
+}
